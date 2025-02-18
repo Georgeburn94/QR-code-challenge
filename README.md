@@ -21,7 +21,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot](./assets/images/screenshot.jpg)
+<div align="center">
+  <img src="./assets/images/screenshot.jpg" alt="Screenshot">
+</div>
 
 ### Links
 
@@ -39,7 +41,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful Resources
 
-- Flexbox Froggy for a refresh
+- Flexbox Froggy for a refresh 🐸
 
 ### What I learned
 This project was a great opportunity to refresh my knowledge of flexbox and basic CSS techniques. I particularly enjoyed working with:
